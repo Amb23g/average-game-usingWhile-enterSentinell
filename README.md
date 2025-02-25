@@ -1,2 +1,4 @@
 # average-game-usingWhile-enterSentinell
 This is an Average Game.
+
+In the Average Game, The User is first greeted into the game. Then, the user is asked to enter a number, but also given the option to hit just enter to quit. If the user inputs a number they are asked to provide another number. This loop continues until the user inputs just enter to quit. After quitting the game, the program will display the average from all the numbers the user entered. The user is then asked if they would like to play again. The user can either respond 'yes' and proceed to play again. or the user could say 'no' and is then displayed an outro message.
